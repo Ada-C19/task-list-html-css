@@ -1,0 +1,11 @@
+* {
+    color: brown;
+    background-color: paleturquoise;
+}
+
+#title {
+    color: darkcyan;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 50px;
+}
