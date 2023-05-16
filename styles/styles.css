@@ -1,0 +1,33 @@
+* {
+    background-color: antiquewhite;
+}
+
+* {
+    /* border: 1px hotpink solid; */
+    margin-left: 20px;
+}
+
+h1 {
+  margin-top: 150px;  
+}
+
+h2 {
+    color: darkgreen;
+}
+
+#health-goal {
+    font-size: 40px;
+    color: darkseagreen;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.goal {
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslateblue;
+}
+
+img {
+    justify-content: center;
+    align-items: center;
+}
